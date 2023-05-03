@@ -6,3 +6,11 @@
 - Casting de ObjetosHerdados
 - Chamada de contrutor do pai  (Base())
 - Lista Baseada no pai
+
+
+## Polimorfismo 
+- Virtual
+- Abstract 
+- Override
+- Override String()
+- Chamada método Base()
